@@ -5,7 +5,7 @@ const Footer = ({ description }) => (
     style={{
       width: "500px",
       margin: "auto",
-      textAlign: "justify",
+      textAlign: "center",
       fontSize: "14px",
     }}
   >
