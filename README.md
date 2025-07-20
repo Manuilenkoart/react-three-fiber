@@ -1,0 +1,3 @@
+setup env
+VITE_BE_URL
+VITE_JAR_CLIENT_ID
